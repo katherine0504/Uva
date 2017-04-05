@@ -9,7 +9,6 @@ char in[100], out[100];
 int cnt, t, len;
 
 void init();
-void fail(char *B, int *pi);
 
 int main() {
   int i, j, k;
